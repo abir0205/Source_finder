@@ -1,0 +1,61 @@
+{
+  "CDC": {
+    "name": "Centers for Disease Control and Prevention (USA)",
+    "main": "https://www.cdc.gov/vaccines/index.html",
+    "search": "https://search.cdc.gov/search/",
+    "direct_links": {
+      "Vaccines & Immunizations": "https://www.cdc.gov/vaccines/index.html",
+      "Vaccine-Preventable Diseases": "https://www.cdc.gov/vaccines/vpd/vaccines-diseases.html",
+      "Immunization Schedules": "https://www.cdc.gov/vaccines/schedules/index.html",
+      "ACIP Recommendations": "https://www.cdc.gov/acip/index.html"
+    },
+    "quality_indicators": [
+      "Government agency",
+      "Peer-reviewed",
+      "Evidence-based"
+    ]
+  },
+  "WHO": {
+    "name": "World Health Organization",
+    "main": "https://www.who.int/health-topics/vaccines-and-immunization",
+    "search": "https://www.who.int/search",
+    "direct_links": {
+      "Vaccines & Immunization": "https://www.who.int/health-topics/vaccines-and-immunization",
+      "Immunization Team": "https://www.who.int/teams/immunization-vaccines-and-biologicals",
+      "Q&A on Vaccines": "https://www.who.int/news-room/questions-and-answers/item/vaccines-and-immunization",
+      "Vaccine Safety Net": "https://www.vaccinesafetynet.org/"
+    },
+    "quality_indicators": [
+      "International authority",
+      "WHO-validated",
+      "Evidence-based"
+    ]
+  },
+  "FDA": {
+    "name": "U.S. Food and Drug Administration",
+    "main": "https://www.fda.gov/vaccines-blood-biologics/vaccines",
+    "direct_links": {
+      "Vaccines Homepage": "https://www.fda.gov/vaccines-blood-biologics/vaccines",
+      "Vaccine Safety": "https://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics",
+      "Vaccine Approvals": "https://www.fda.gov/vaccines-blood-biologics/approved-products"
+    },
+    "quality_indicators": [
+      "Regulatory authority",
+      "Clinical trial oversight",
+      "Safety monitoring"
+    ]
+  },
+  "NIH": {
+    "name": "National Institutes of Health",
+    "main": "https://www.niaid.nih.gov/research/vaccines",
+    "direct_links": {
+      "Vaccine Research": "https://www.niaid.nih.gov/research/vaccines",
+      "Clinical Trials": "https://clinicaltrials.gov/"
+    },
+    "quality_indicators": [
+      "Research institution",
+      "Clinical trials",
+      "Peer-reviewed"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "Immunization Action Coalition": {
+    "url": "https://www.immunize.org/",
+    "description": "Educational resources for healthcare professionals and public",
+    "languages": [
+      "English",
+      "Spanish",
+      "Multiple"
+    ],
+    "vsn_validated": true
+  },
+  "VaccineInformation.org": {
+    "url": "https://www.vaccineinformation.org/",
+    "description": "Public-friendly vaccine information",
+    "languages": [
+      "English"
+    ],
+    "vsn_validated": true
+  },
+  "CHOP Vaccine Education Center": {
+    "url": "https://www.chop.edu/centers-programs/vaccine-education-center",
+    "description": "Children's Hospital of Philadelphia expert resources",
+    "languages": [
+      "English"
+    ],
+    "vsn_validated": true
+  },
+  "Johns Hopkins Institute for Vaccine Safety": {
+    "url": "https://www.hopkinsvaccine.org/",
+    "description": "Independent vaccine safety research and information",
+    "languages": [
+      "English"
+    ],
+    "vsn_validated": true
+  },
+  "Immunize Canada": {
+    "url": "https://immunize.ca/",
+    "description": "Canadian immunization information",
+    "languages": [
+      "English",
+      "French"
+    ],
+    "vsn_validated": true
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "American Academy of Pediatrics": {
+    "url": "https://www.aap.org/immunization",
+    "description": "Pediatric immunization guidance",
+    "audience": "Healthcare professionals and families"
+  },
+  "Infectious Diseases Society of America": {
+    "url": "https://www.idsociety.org/",
+    "description": "Infectious disease expertise",
+    "audience": "Healthcare professionals"
+  },
+  "Vaccines.gov": {
+    "url": "https://www.vaccines.gov/",
+    "description": "U.S. government vaccine information portal",
+    "audience": "General public"
+  }
+}

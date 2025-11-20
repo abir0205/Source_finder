@@ -1,0 +1,59 @@
+{
+  "Vaccine": {
+    "url": "https://www.sciencedirect.com/journal/vaccine",
+    "publisher": "Elsevier",
+    "description": "Leading journal in vaccinology",
+    "impact": "High-impact",
+    "peer_reviewed": true
+  },
+  "npj Vaccines": {
+    "url": "https://www.nature.com/npjvaccines/",
+    "publisher": "Nature",
+    "description": "Open-access vaccine research",
+    "impact": "High-impact",
+    "peer_reviewed": true,
+    "open_access": true
+  },
+  "Expert Review of Vaccines": {
+    "url": "https://www.tandfonline.com/journals/ierv20",
+    "publisher": "Taylor & Francis",
+    "description": "Expert commentary on vaccine development",
+    "peer_reviewed": true,
+    "medline_indexed": true
+  },
+  "Human Vaccines & Immunotherapeutics": {
+    "url": "https://www.tandfonline.com/journals/khvi20",
+    "publisher": "Taylor & Francis",
+    "description": "International vaccinology research",
+    "peer_reviewed": true,
+    "open_access": true
+  },
+  "The Lancet": {
+    "url": "https://www.thelancet.com/",
+    "publisher": "Elsevier",
+    "description": "Premier general medical journal",
+    "impact": "Very high-impact",
+    "peer_reviewed": true
+  },
+  "New England Journal of Medicine": {
+    "url": "https://www.nejm.org/",
+    "publisher": "Massachusetts Medical Society",
+    "description": "Leading medical journal",
+    "impact": "Very high-impact",
+    "peer_reviewed": true
+  },
+  "JAMA": {
+    "url": "https://jamanetwork.com/",
+    "publisher": "American Medical Association",
+    "description": "Journal of the American Medical Association",
+    "impact": "Very high-impact",
+    "peer_reviewed": true
+  },
+  "BMJ": {
+    "url": "https://www.bmj.com/",
+    "publisher": "BMJ Publishing Group",
+    "description": "British Medical Journal",
+    "impact": "High-impact",
+    "peer_reviewed": true
+  }
+}
